@@ -20,7 +20,7 @@
 <img src="./img/php 1.png" style="margin: auto; width:400px;"><br><br>
 
 ### **Penjelasan**
->Code diatas merupakan contoh untuk memasukkan value kedalam variabel nama dan nim, setelah itu dilanjutkan dengan menampilkan value kedalam browser
+>Code tersebut untuk memasukkan value kedalam variabel nama dan nim
 
 ## Latihan ke 2
 
@@ -39,7 +39,7 @@
 <img src="./img/php 2.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh untuk mendapatkan value dari query 'nama'
+>Code tersebut untuk mendapatkan value dari query 'nama'
 
 ## Latihan ke 3
 
@@ -62,7 +62,7 @@
 <img src="./img/php 3.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh untuk mengirimkan value dari form dengan method post dan kemudian diambil menggunakan query `nama`
+>Code tersebut untuk mengirimkan value dari form dengan method post dan kemudian diambil menggunakan query `nama`
 
 ## Latihan ke 4
 
@@ -103,7 +103,7 @@
 <img src="./img/php 5.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh pengkondisian if else
+>Code tersebut adalah contoh pengkondisian if else
 
 ## Latihan ke 6
 ### **Code**
@@ -131,7 +131,7 @@ echo "/$nama_hari";
 <img src="./img/php 6.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh pengkondisian menggunakan switch case
+>Code tersebut adalah contoh pengkondisian menggunakan switch case
 
 ## Latihan ke 7
 ### **Code**
@@ -152,7 +152,7 @@ echo "/$nama_hari";
 <img src="./img/php 7.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh perulangan menggunakan for
+>Code tersebut adalah contoh perulangan menggunakan for
 
 ## Latihan ke 8
 ### **Code**
@@ -171,7 +171,7 @@ while ($i <= 10) {
 <img src="./img/php 8.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh perulangan menggunakan while
+>Code tersebut adalah contoh perulangan menggunakan while
 
 ## Latihan ke 9
 ### **Code**
@@ -190,7 +190,7 @@ do {
 <img src="./img/php 9.png" style="margin: auto; width:400px;">
 
 ### **Penjelasan**
->Code diatas merupakan contoh perulangan menggunakan do while
+>Code tersebut adalah contoh perulangan menggunakan do while
 
 ## **PRAKTIKUM**
 ```
